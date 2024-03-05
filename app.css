@@ -113,7 +113,7 @@ button {
 }
 
 #preload {
-    background: #000 url("/icon/br.gif ") no-repeat center;
+    background: #000 url("/demo1/br.gif") no-repeat center;
     width: 100%;
     background-size: 50%;
     height: 100vh;
